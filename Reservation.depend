@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558950876 source:c:\users\hp 840 g3\desktop\projects\vehicle seat reservation in c++\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
